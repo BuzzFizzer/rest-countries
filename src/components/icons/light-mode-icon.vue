@@ -9,7 +9,6 @@
         stroke-linecap: butt;
         stroke-linejoin: miter;
         stroke-miterlimit: 10;
-        fill: none;
         fill-rule: nonzero;
         opacity: 1;
       "
@@ -24,7 +23,6 @@
           stroke-linecap: butt;
           stroke-linejoin: miter;
           stroke-miterlimit: 10;
-          fill: rgb(0, 0, 0);
           fill-rule: nonzero;
           opacity: 1;
         "
@@ -40,7 +38,6 @@
           stroke-linecap: butt;
           stroke-linejoin: miter;
           stroke-miterlimit: 10;
-          fill: rgb(0, 0, 0);
           fill-rule: nonzero;
           opacity: 1;
         "
@@ -56,7 +53,6 @@
           stroke-linecap: butt;
           stroke-linejoin: miter;
           stroke-miterlimit: 10;
-          fill: rgb(0, 0, 0);
           fill-rule: nonzero;
           opacity: 1;
         "
@@ -72,7 +68,6 @@
           stroke-linecap: butt;
           stroke-linejoin: miter;
           stroke-miterlimit: 10;
-          fill: rgb(0, 0, 0);
           fill-rule: nonzero;
           opacity: 1;
         "
@@ -88,7 +83,6 @@
           stroke-linecap: butt;
           stroke-linejoin: miter;
           stroke-miterlimit: 10;
-          fill: rgb(0, 0, 0);
           fill-rule: nonzero;
           opacity: 1;
         "
@@ -104,7 +98,6 @@
           stroke-linecap: butt;
           stroke-linejoin: miter;
           stroke-miterlimit: 10;
-          fill: rgb(0, 0, 0);
           fill-rule: nonzero;
           opacity: 1;
         "
@@ -120,7 +113,6 @@
           stroke-linecap: butt;
           stroke-linejoin: miter;
           stroke-miterlimit: 10;
-          fill: rgb(0, 0, 0);
           fill-rule: nonzero;
           opacity: 1;
         "
@@ -136,7 +128,6 @@
           stroke-linecap: butt;
           stroke-linejoin: miter;
           stroke-miterlimit: 10;
-          fill: rgb(0, 0, 0);
           fill-rule: nonzero;
           opacity: 1;
         "
@@ -152,7 +143,6 @@
           stroke-linecap: butt;
           stroke-linejoin: miter;
           stroke-miterlimit: 10;
-          fill: rgb(0, 0, 0);
           fill-rule: nonzero;
           opacity: 1;
         "

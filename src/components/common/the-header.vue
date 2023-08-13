@@ -30,9 +30,9 @@
     <div class="wrapper nav-container">
       <h1 @click="goHome">Where in the world?</h1>
       <button @click="swtichTheme">
-        <dark-mode-icon v-if="theme === 'dark'"></dark-mode-icon>
+        <dark-mode-icon v-if="theme === 'light'"></dark-mode-icon>
         <light-mode-icon v-else></light-mode-icon>
-        <p>{{ `${theme === "dark" ? "Dark" : "Light"}` }} Mode</p>
+        <p>{{ `${theme === "dark" ? "Light" : "Dark"}` }} Mode</p>
       </button>
     </div>
   </header>
@@ -76,7 +76,7 @@
 
         & svg {
           transform: rotateZ(-30deg);
-          fill: var(--color-text);
+          fill: var(--color-text) !important;
           max-height: 1.75rem;
           max-width: 1.75rem;
         }
