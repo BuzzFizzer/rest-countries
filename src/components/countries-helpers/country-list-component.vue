@@ -58,6 +58,7 @@
       h2 {
         font-weight: var(--font-weight-boldest);
         font-size: var(--header-font-small);
+        margin-bottom: 1.25rem;
       }
 
       & ul {
