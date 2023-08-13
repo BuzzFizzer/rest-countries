@@ -128,8 +128,7 @@
     font-weight: var(--font-weight-bold);
     justify-content: space-between;
     align-items: center;
-    margin-top: 3.2rem;
-    margin-bottom: 4.25rem;
+    margin: 4.7rem 0;
 
     & .input-group {
       position: relative;

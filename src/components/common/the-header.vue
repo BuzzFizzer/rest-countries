@@ -47,8 +47,8 @@
     .nav-container {
       justify-content: space-between;
       align-items: center;
-      height: 6.25rem;
       display: flex;
+      height: 8rem;
 
       & h1 {
         transition: opacity 0.3s;
