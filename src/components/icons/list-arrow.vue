@@ -1,0 +1,36 @@
+<template>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve"
+    version="1.1"
+    style="
+      shape-rendering: geometricPrecision;
+      text-rendering: geometricPrecision;
+      image-rendering: optimizeQuality;
+    "
+    viewBox="0 0 777 588.75"
+    x="0px"
+    y="0px"
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+  >
+    <g><polygon class="fil0" points="388,282 95,0 0,99 388,471 777,99 682,0 " /></g>
+    <text
+      x="0"
+      y="486"
+      fill="#000000"
+      font-size="5px"
+      font-weight="bold"
+      font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+    ></text>
+    <text
+      x="0"
+      y="491"
+      fill="#000000"
+      font-size="5px"
+      font-weight="bold"
+      font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif"
+    ></text>
+  </svg>
+</template>

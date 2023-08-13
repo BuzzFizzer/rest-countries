@@ -1,0 +1,44 @@
+@import "./base.scss";
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#app {
+  min-height: 100vh;
+  margin: 0 auto;
+}
+
+.wrapper {
+  padding: 0 8rem;
+  max-width: 144rem;
+  width: 100%;
+}
+
+@media (max-width: 1100px) {
+  .wrapper {
+    padding: 0 6rem;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --header-primary: 1.8rem;
+  }
+
+  .wrapper {
+    padding: 0 4rem;
+  }
+}
+
+@media (max-width: 550px) {
+  :root {
+    --header-primary: 1.4rem;
+  }
+
+  .wrapper {
+    padding: 0 2rem;
+  }
+}
