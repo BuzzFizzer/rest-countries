@@ -200,6 +200,17 @@
     }
   }
 
+  @media (max-width: 1368px) {
+    .country-component {
+      column-gap: 5rem;
+
+      & .country-flag {
+        min-width: 50.4rem;
+        height: 36rem;
+      }
+    }
+  }
+
   @media (max-width: 1000px) {
     .country-component {
       & .country-flag {
